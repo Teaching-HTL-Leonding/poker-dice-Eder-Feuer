@@ -1,0 +1,15 @@
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.csproj.AssemblyReference.cache
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.AssemblyInfoInputs.cache
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.AssemblyInfo.cs
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.csproj.CoreCompileInputs.cache
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\bin\Debug\net6.0\026-dice_poker.exe
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\bin\Debug\net6.0\026-dice_poker.deps.json
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\bin\Debug\net6.0\026-dice_poker.runtimeconfig.json
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\bin\Debug\net6.0\026-dice_poker.dll
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\bin\Debug\net6.0\ref\026-dice_poker.dll
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\bin\Debug\net6.0\026-dice_poker.pdb
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.dll
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\ref\026-dice_poker.dll
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.pdb
+C:\Users\bened\OneDrive\Dokumente\Theoretisches Programmieren\026-dice_poker\obj\Debug\net6.0\026-dice_poker.genruntimeconfig.cache
